@@ -17,5 +17,5 @@
 ## 找到我
 
 - 公众号：**思维热布丁 🍮**（项目背后的人和故事都在这儿）
-- GitHub：[Xww-coder](https://github.com/xiaowen-pm)
+- GitHub：[xiaowen-pm](https://github.com/xiaowen-pm)
 
